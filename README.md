@@ -1,11 +1,8 @@
 ## 팀 개발을 위한 git github
 
-<!--
-**waterlemona/waterlemona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ###:octocat: 안녕하세요! 북극여우입니다!
+
 ![image](https://github.com/user-attachments/assets/f6ac10db-3bcd-4197-a4d1-02c1a4ecda4e)
 
 
